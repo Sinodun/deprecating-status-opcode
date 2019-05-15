@@ -8,7 +8,6 @@
     workgroup = "dnsop"
     keyword = ["DNS"]
     date = 2019-05-13T00:00:00Z
-    [pi]
     toc = "yes"
     compact = "yes"
     symrefs = "yes"
