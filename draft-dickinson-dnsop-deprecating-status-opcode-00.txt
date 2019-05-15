@@ -14,7 +14,7 @@ Expires: November 14, 2019
 
 Abstract
 
-   This document updates [RFC1035] to depreciate the Status DNS OpCode.
+   This document updates RFC1035 to depreciate the Status DNS OpCode.
 
 Status of This Memo
 

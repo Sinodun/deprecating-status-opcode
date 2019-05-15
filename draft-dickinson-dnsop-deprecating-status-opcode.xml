@@ -37,7 +37,7 @@
 
 
 <abstract>
-<t>This document updates <xref target="RFC1035"/> to depreciate the Status DNS OpCode.
+<t>This document updates RFC1035 to depreciate the Status DNS OpCode.
 </t>
 </abstract>
 

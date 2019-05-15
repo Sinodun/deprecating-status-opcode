@@ -28,7 +28,7 @@
 %%%
 
 .# Abstract
-This document updates [@!RFC1035] to depreciate the Status DNS OpCode.
+This document updates RFC1035 to depreciate the Status DNS OpCode.
 
 {mainmatter}
 
