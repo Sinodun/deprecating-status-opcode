@@ -3,7 +3,7 @@
 # - xml2rfc (https://xml2rfc.tools.ietf.org/)
 
 DRAFT=draft-dickinson-dnsop-deprecating-status-opcode
-VERSION=00
+VERSION=01
 
 XML=$(DRAFT).xml
 HTML=$(DRAFT)-$(VERSION).html

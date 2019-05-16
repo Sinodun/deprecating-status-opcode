@@ -1,8 +1,8 @@
 %%%
-    Title = "Depreciating the DNS Status OpCode"
-    abbrev = "Depreciating the DNS Status OpCode"
+    Title = "Deprecating the DNS Status OpCode"
+    abbrev = "Deprecating the DNS Status OpCode"
     category = "std"
-    docName= "draft-dickinson-dnsop-deprecating-status-opcode-00"
+    docName= "draft-dickinson-dnsop-deprecating-status-opcode-01"
     ipr = "trust200902"
     area = "Internet"
     workgroup = "dnsop"
@@ -43,7 +43,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 To the author's knowledge there is no implementation of the Status OpCode. A quick test shows inconsistent responses to a Status request with different DNS server implementations returning NotImp, Refused or giving no response at all.
 
-# Depreciating the Status OpCode
+# Deprecating the Status OpCode
 
 The Status OpCode MUST be marked OBSOLETE.
 
